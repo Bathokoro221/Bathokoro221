@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋SOC Analyst in training
+🛡️ Learning threat detection & SIEM tools
+📚 Studying cybersecurity fundamentals
 
 <!--One of the key challenges I faced during the program was balancing the learning schedule with my existing responsibilities.** At the beginning, the volume of content and the pace of assignments felt overwhelming. I also struggled with understanding some of the more technical concepts quickly, especially when trying to apply them in practical tasks.
  
