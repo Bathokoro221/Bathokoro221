@@ -1,17 +1,15 @@
 Hi there, I'm Batholomew Okoro 👋
 
-I'm a developer & cybersecurity learner from Awka, Anambra State, Nigeria.
-Building secure systems, learning new tools, and turning ideas into real projects.
+I'm a developer & cybersecurity learner from Awka, Anambra State, Nigeria. Building secure systems, learning new tools, and turning ideas into real projects.
 
 🚀 Currently learning:
-- Python & CyberSecurity
-- Cloud Security — Secure by Design
-- File Integrity & Penetration Testing
+• Python & CyberSecurity
+• Cloud Security — Secure by Design
+• File Integrity & Penetration Testing
 
 💻 My Projects:
-File Integrity Monitor (SHA-256)
-Tap security scripts
-- **Batho's Farm & Green Concept** — Sustainable farming + Waste-to-Wealth + Plastic Recycling Machines
+• CyberSecurityProjects — Python tools: File Integrity Monitor (SHA-256), security scripts
+• Batho's Farm & Green Concept — Sustainable farming + Waste-to-Wealth + Plastic Recycling Machines
 
 🛠️ Skills: Python | Git & GitHub | CyberSecurity | Cloud Security | Generative AI
 
