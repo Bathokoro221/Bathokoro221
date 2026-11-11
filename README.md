@@ -1,24 +1,20 @@
+Hi there, I'm Batholomew Okoro 👋
 
-### Hi there, I'm Batholomew Okoro 👋
+I'm a developer & cybersecurity learner from Awka, Anambra State, Nigeria.
+Building secure systems, learning new tools, and turning ideas into real projects.
 
-I'm a developer from Awka, Anambra State, Nigeria, passionate about building with code and learning new tools.
+🚀 Currently learning:
+- Python & CyberSecurity
+- Cloud Security — Secure by Design
+- File Integrity & Penetration Testing
 
-**🚀 Currently learning:**
-- 【entity-GitHub¦canonical_name=GitHub】 Copilot CLI
-- Creating applications with AI assistance
-- Open source workflows
+💻 My Projects:
+- **CyberSecurityProjects** — Python tools: File Integrity Monitor (SHA-256), security scripts
+- **Batho's Farm & Green Concept** — Sustainable farming + Waste-to-Wealth + Plastic Recycling Machines
 
-**🛠️ Skills:**
-- Git & 【entity-GitHub¦canonical_name=GitHub】
-- CLI Development
-- Problem Solving
+🛠️ Skills: Python | Git & GitHub | CyberSecurity | Cloud Security | Generative AI
 
-**📫 Connect with me:**
-- 【entity-GitHub¦canonical_name=GitHub】: [@Bathokoro221](https://github.com/Bathokoro221)
+📍 Awka, Nigeria | 📞 08066336329 | 📧 batholomewokoro22@gmail.com
+🔗 Follow me for daily tech & security tips!
 
-> "Self-paced, always learning, always building."
-
-<!---
-Bathokoro221/Bathokoro221 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview tab to see how it looks!
--->
+> People First, Secure Always.
