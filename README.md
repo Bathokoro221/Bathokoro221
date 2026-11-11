@@ -9,7 +9,8 @@ Building secure systems, learning new tools, and turning ideas into real project
 - File Integrity & Penetration Testing
 
 💻 My Projects:
-- **CyberSecurityProjects** — Python tools: File Integrity Monitor (SHA-256), security scripts
+File Integrity Monitor (SHA-256)
+Tap security scripts
 - **Batho's Farm & Green Concept** — Sustainable farming + Waste-to-Wealth + Plastic Recycling Machines
 
 🛠️ Skills: Python | Git & GitHub | CyberSecurity | Cloud Security | Generative AI
